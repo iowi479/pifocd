@@ -1,0 +1,3 @@
+package pifocd;
+
+@license(LGPL);
